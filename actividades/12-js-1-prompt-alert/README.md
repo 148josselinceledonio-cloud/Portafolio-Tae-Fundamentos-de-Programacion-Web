@@ -4,10 +4,10 @@
 **Objetivo:** _Por completar_
 
 ## Descripción
-Programas que usan prompt y alert: uno pregunta el nombre y la edad y felicita al usuario, y otro pide dos números y muestra las operaciones (suma, resta, multiplicación, división, módulo y potencia).
+Programa que pregunta el nombre y la edad con prompt y felicita al usuario con alert.
 
 ## Cómo ejecutarlo
-Abrir `codigo/pront y alert.html` o `codigo/operaciones.html` en el navegador.
+Abrir `codigo/pront y alert.html` en el navegador.
 
 ## Resultado
 _Captura del resultado en `capturas/`_
