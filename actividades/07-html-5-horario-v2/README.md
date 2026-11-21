@@ -1,6 +1,5 @@
 # Actividad — HTML 5 — Horario v2
 
-**Fecha:** _Por completar_
 **Objetivo:** _Por completar_
 
 ## Descripción
@@ -12,5 +11,3 @@ Abrir `codigo/horario v2.html` en el navegador.
 ## Resultado
 _Captura del resultado en `capturas/`_
 
-## Reflexión
-_Qué aprendí y qué se me dificultó._

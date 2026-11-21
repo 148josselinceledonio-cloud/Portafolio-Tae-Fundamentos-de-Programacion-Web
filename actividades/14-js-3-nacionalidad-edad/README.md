@@ -1,6 +1,5 @@
 # Actividad — JS 3 — Nacionalidad y edad
 
-**Fecha:** _Por completar_
 **Objetivo:** _Por completar_
 
 ## Descripción
@@ -12,5 +11,3 @@ Abrir `codigo/nacionalidad.html` en el navegador.
 ## Resultado
 _Captura del resultado en `capturas/`_
 
-## Reflexión
-_Qué aprendí y qué se me dificultó._
